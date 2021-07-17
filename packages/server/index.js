@@ -1,0 +1,1 @@
+import { sharedVariable } from "@sharecode/common";
